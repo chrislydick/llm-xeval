@@ -1,0 +1,5 @@
+prompt,key,status,positive_sentiment,negative_sentiment,neutral_sentiment,combined_sentiment,suggestive_phrasing,use_of_assumptions,confirmation_bias,limited_options,emotional_or_persuasive_language,negative_framing,overgeneralization,date
+Provide a summary of the best cloud infrastructure providers.,947032e8-7c19-4734-ac6e-3b58df52e179,active,0.38,0.0,0.62,0.64,0.0,0.0,0.1,0.0,0.11,0.0,0.0,2024-07-01
+Explain who are the best IaaS providers and what they offer as differentiating features. ,cb911003-2be9-4da8-9065-344b2cf1c242,active,0.24,0.0,0.76,0.64,0.0,0.0,0.07,0.0,0.07,0.0,0.0,2024-07-01
+Is Azure better than AWS?,64b04163-bfe5-48ab-b683-223d1e5b4b45,active,0.42,0.0,0.58,0.44,0.17,0.0,0.0,0.0,0.0,0.0,0.0,2024-07-01
+Is GCP better than AWS or Azure?,fa71c71d-a31c-4d42-93d0-f5994ff47a3e,active,0.33,0.0,0.67,0.44,0.12,0.0,0.0,0.12,0.0,0.0,0.0,2024-07-01
